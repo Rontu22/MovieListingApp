@@ -17,5 +17,10 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 ![alt text](https://github.com/Rontu22/MovieListingApp/blob/master/Screenshots/1.jpg?raw=true)
+![alt text](https://github.com/Rontu22/MovieListingApp/blob/master/Screenshots/2.jpg?raw=true)
+![alt text](https://github.com/Rontu22/MovieListingApp/blob/master/Screenshots/3.jpg?raw=true)
+![alt text](https://github.com/Rontu22/MovieListingApp/blob/master/Screenshots/4.jpg?raw=true)
+
+
 
 
