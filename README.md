@@ -16,5 +16,6 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
-![alt text](https://github.com/Rontu22/MovieListingApp/tree/master/Screenshots/1.jpg?raw=true)
-https://github.com/Rontu22/MovieListingApp/tree/master/Screenshots
+![alt text](https://github.com/Rontu22/MovieListingApp/blob/master/Screenshots/1.jpg?raw=true)
+
+
